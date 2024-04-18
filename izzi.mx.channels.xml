@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.1.0 -- Jan van Straaten" site="izzi.mx">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.1.0 -- Jan van Straaten" site="izzi.mx">
   <channels>
     <channel update="i" site="izzi.mx" site_id="33646" xmltv_id="LAS ESTRELLAS -2hr">LAS ESTRELLAS -2hr</channel>
     <channel update="i" site="izzi.mx" site_id="16466" xmltv_id="Gala TV">Gala TV</channel>
@@ -115,4 +115,4 @@
     <channel update="i" site="izzi.mx" site_id="88779" xmltv_id="Stingray Música Ligera">Stingray Música Ligera</channel>
     <channel update="i" site="izzi.mx" site_id="88826" xmltv_id="Stingray Rock de Brasil ">Stingray Rock de Brasil </channel>
   </channels>
-</site>
+</tv>
